@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="harsh_agarwal">Harsh Agarwal</string>
+    <string name="name">Harsh Agarwal</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Yellow Star</string>
+    <string name="some_long_text">Hi my name is Harsh</string>
+    <string name="your_nickname">What is Your Nickname</string>
+    <string name="done">Done</string>
+</resources>
